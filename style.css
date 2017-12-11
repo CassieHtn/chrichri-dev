@@ -1,13 +1,17 @@
+
+
 .clear {
     clear:both;
 }
 .btn-info {
-    margin-right:15px;
-    text-transform:uppercase;
-    padding:10px;
-    display:block;
-    float:left;
+    padding:16px;
+    margin-right:10px;
+text-transform:uppercase;
+padding:10px;
+display:block;
+float:left;
 }
+
 .btn-info a {
     display:block;
     text-decoration:none;
