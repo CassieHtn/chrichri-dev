@@ -43,6 +43,8 @@ body {
 	padding-bottom:7px;
 }
 
+/* BOUTONS */
+
 .review-block{
 	background-color:#FAFAFA;
 	border:1px solid #EFEFEF;
@@ -199,36 +201,36 @@ color:blue;
     text-align: center;
 }
 
-.bandebleue {
-    background-color: #15224f;
-    min-height: 30px;
-    width: 100%;
-    text-align: center;
 
 
-}
 
 .footer-bottom {
     background-color: #15224f;
     min-height: 30px;
     width: 100%;
+  }
 
-}
 .copyright {
     color: #fff;
     line-height: 30px;
     min-height: 30px;
     padding: 7px 0;
 }
+
+.bandebleue {
+    background-color: #15224f;
+    min-height: 30px;
+    width: 100%;
+    text-align: center;
+}
 .design {
-    color: #fff;
+    color:white;
     line-height: 30px;
     min-height: 30px;
-    padding: 7px 0;
-    text-align: right;
+    text-align: center;
 }
 .design a {
-    color: #fff;
+    color: white;
 }
 
 
@@ -251,10 +253,12 @@ c2eb8486d2c0.css:1
     box-sizing: border-box;
 }
 
-.card-deck {
-    text-align: center;
-}
+
 
 
     /* DESK CARD */
-.card-deck
+
+
+.card-deck {
+        text-align: center;
+    }
